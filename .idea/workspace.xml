@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1926e433-4167-464d-b69d-5a80597b49c2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/build.sbt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/com/ptrlab/PTRActor.scala" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/com/ptrlab/PTRBroker.scala" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JRhtlONWpXKw2js4dDaLaPjwIR" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.303207" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="6" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Agregator">
+    <configuration name="Agregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ptrlab.Agregator" />
+      <module name="PTRLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ptrlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTRActor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ptrlab.PTRActor" />
+      <module name="PTRLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ptrlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTRActor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ptrlab.PTRActor1" />
+      <module name="PTRLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ptrlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTRBroker" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ptrlab.PTRBroker" />
+      <module name="PTRLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ptrlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTRPublisher" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ptrlab.PTRPublisher" />
+      <module name="PTRLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ptrlab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PTRActor" />
+      <item itemvalue="Application.PTRActor1" />
+      <item itemvalue="Application.PTRBroker" />
+      <item itemvalue="Application.PTRPublisher" />
+      <item itemvalue="Application.Agregator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PTRPublisher" />
+        <item itemvalue="Application.Agregator" />
+        <item itemvalue="Application.PTRBroker" />
+        <item itemvalue="Application.PTRActor1" />
+        <item itemvalue="Application.PTRActor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1926e433-4167-464d-b69d-5a80597b49c2" name="Changes" comment="" />
+      <created>1672047020334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672047020334</updated>
+      <workItem from="1672047021721" duration="792000" />
+      <workItem from="1672047896585" duration="740000" />
+      <workItem from="1672225286791" duration="4161000" />
+      <workItem from="1672230931316" duration="9861000" />
+      <workItem from="1672308603423" duration="10967000" />
+      <workItem from="1672344630033" duration="1959000" />
+      <workItem from="1672346627210" duration="2622000" />
+      <workItem from="1672668856411" duration="1210000" />
+      <workItem from="1673538915186" duration="10237000" />
+      <workItem from="1673710076564" duration="2280000" />
+      <workItem from="1673796462950" duration="3358000" />
+      <workItem from="1673816072597" duration="3359000" />
+      <workItem from="1673965538920" duration="3625000" />
+      <workItem from="1673983051038" duration="2803000" />
+      <workItem from="1674031483971" duration="41000" />
+      <workItem from="1674425424523" duration="290000" />
+      <workItem from="1674460965956" duration="9001000" />
+      <workItem from="1678868844735" duration="2024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.NotSerializableException" package="java.io" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
